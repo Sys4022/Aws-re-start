@@ -23,3 +23,4 @@ while isGuessRight != True:
     else:
         print("Casi, sigue intentando🤑")
         print("Esa doge coin no se genera sola💰")
+        print("a casa platita ")
